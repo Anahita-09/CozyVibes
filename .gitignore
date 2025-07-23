@@ -1,0 +1,24 @@
+# Audio files (if you don't want to push large MP3 files)
+Music/*.mp3
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Node modules (if you add any later)
+node_modules/
+
+# Environment files
+.env
+.env.local 
